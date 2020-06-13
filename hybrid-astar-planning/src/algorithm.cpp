@@ -474,7 +474,7 @@ void Algorithm::hybridAstarPlanning() {
       }
 
 	  // display the path in reversed order
-	  for(int i = path.size()-1; i >= 0; i--){
+	  for(int i = path.size()-1; i > 0; i--){
 		  display.drawCar(path[i]);
 		  display.show(2000 / path[i].velocity);
 	  }
