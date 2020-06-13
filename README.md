@@ -21,7 +21,11 @@ The code is ready to run a real Autonomous Vehicle with minor modifications, alt
 - goal
 - velocity
 
-## Images
+## Path Planning Visualization
+
+<img src="hybrid-astar-planning/data/path_visual.gif" width="400" height="400">
+
+## Result Images
 
 <img src="https://imgur.com/wDC3stV.png" alt="Example1" width="400"/>             <img src="https://imgur.com/GZH6w0V.png" alt="Example2" width="400"/>
 
