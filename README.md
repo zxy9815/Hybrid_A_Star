@@ -28,7 +28,7 @@ The code is ready to run a real Autonomous Vehicle with minor modifications, alt
 ## Future Work
 
 - Path Smoothing
-- Reverse Motion
+- Reverse Motion (Done)
 - User Interaction
 - Viusalization Optimization
 - Motion Control
